@@ -10,7 +10,7 @@ We will empirically investigate this, where we compare firms within the same ind
 The results will be able to highlight how capital structure decisions interact with market forces, suggesting that the optimal mix of debt and equity is neither universal nor static, but rather contingent on firm-specific conditions, industry norms, and broader economic factors.
 
 Initial references:
-Modigliani and Miller (1958): The Cost of Capital, Corporation Finance and the Theory of Investment”
-Berk and DeMarzo (2019): “Corporate Finance”
-Myers, Stewart, C. (2001). "Capital Structure."
+Modigliani and Miller (1958): The Cost of Capital, Corporation Finance and the Theory of Investment”, 
+Berk and DeMarzo (2019): “Corporate Finance”, 
+Myers, Stewart, C. (2001). "Capital Structure.", 
 Luigi, P., & Sorin, V. (2009). “A review of the capital structure theories”
