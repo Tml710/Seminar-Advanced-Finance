@@ -14,5 +14,3 @@ Modigliani and Miller (1958): The Cost of Capital, Corporation Finance and the T
 Berk and DeMarzo (2019): “Corporate Finance”, 
 Myers, Stewart, C. (2001). "Capital Structure.", 
 Luigi, P., & Sorin, V. (2009). “A review of the capital structure theories”
-
-lol
