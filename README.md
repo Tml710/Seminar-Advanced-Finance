@@ -1,5 +1,7 @@
 # Seminar-Advanced-Finance
+
 Title: Capital Structure and Market Valuation: Investigating the Role of Debt Financing
+
 Authors: Christoffer Johne (HLW856) and Christopher Dyrling (TML710)
 
 Description: 
